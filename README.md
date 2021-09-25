@@ -24,7 +24,7 @@ Awesome + lxpanel
 ![AWSM_SCR](shots/awesome+lxpanel.png)
 
 # notes
-I'm not really a pro-ricer :laughing
+I'm not really a pro-ricer :laughing:
 
 `nemo` file manager integrates really well with the icons
 
